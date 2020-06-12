@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="music">music...</string>
+    <string name="_01_37">01:37</string>
+    <string name="_04_12">04:12</string>
+    <string name="musictitle">Paradise</string>
+    <string name="musicartist">Cold Play</string>
+
+</resources>
